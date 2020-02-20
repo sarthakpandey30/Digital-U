@@ -12,4 +12,4 @@ divide the sender and receiver and removed timestamps from it.
 We created our backend on Nodejs and we faced difficulties while exporting the model but it was successful and we finally used OCR-api
 to link the bot to whatsapp web servers using QR Codes.
 
-(For the Python Scripts and bot and steps on how to export the bot model on your own chats -----> check out Vivek Wadwani's git:https://github.com/vivekw1211
+(For the Python Scripts and bot and steps on how to export the bot model on your own chats) -----> check out Vivek Wadwani's git:https://github.com/vivekw1211
