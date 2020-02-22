@@ -1,5 +1,14 @@
 # Digital-U
 (HACK THE VALLEY PROJECT)
+# Authors
+
+* **Sarthak Pandey** - *Initial work* - [sarthakpandey30](https://github.com/sarthakpandey30)
+* **Kanishka Jain** - *Initial work* - [jkan2i](https://github.com/jkan2i)
+* **Vivek Wadhwani** - *Initial work* - [vivekw1211](https://github.com/vivekw1211)
+## Built With
+* Python
+* Open CV
+* numpy
 
 A Whatsapp BOT which can be trained using prev chats and used so that you can be at 2 places at the same time.
 Just turn it on whenever you are busy and he will take care of the rest.
