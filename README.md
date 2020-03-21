@@ -1,5 +1,5 @@
 # Digital-U
-(HACK THE VALLEY PROJECT)
+(HACKATHON PROJECT
 # Authors
 
 * **Sarthak Pandey** - *Initial work* - [sarthakpandey30](https://github.com/sarthakpandey30)
