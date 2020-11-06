@@ -8,7 +8,6 @@
 * Python
 * Open CV
 * numpy
-* flutter 
 * puppeteer
 
 A Whatsapp BOT which can be trained using prev chats and used so that you can be at 2 places at the same time.
